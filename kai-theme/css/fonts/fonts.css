@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local("Open Sans"), local("OpenSans"), url("RjgO7rYTmqiVp7vzi-Q5UVtXRa8TVwTICgirnJhmVJw.woff2") format("woff2"), url("RjgO7rYTmqiVp7vzi-Q5UT8E0i7KZn-EPnyo3HZu7kw.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local("Open Sans Semibold"), local("OpenSans-Semibold"), url("MTP_ySUJH_bn48VBG8sNSuXREeHhJi4GEUJI9ob_ak4.woff2") format("woff2"), url("MTP_ySUJH_bn48VBG8sNSoraN7vELC11_xip9Rz-hMs.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local("Open Sans Bold"), local("OpenSans-Bold"), url("k3k702ZOKiLJc3WVjuplzOXREeHhJi4GEUJI9ob_ak4.woff2") format("woff2"), url("k3k702ZOKiLJc3WVjuplzIraN7vELC11_xip9Rz-hMs.woff") format("woff"); }
